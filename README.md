@@ -1,4 +1,4 @@
-# Waddle-Map
+# waddle-map
 
 예측불허, 네비게이션 앱, 와들맵입니다.
 
